@@ -3,6 +3,7 @@ Repositório para armazenar conhecimentos obtidos no curso DIO Santander Code Gi
 
 # AWS Lambda
 Serviço de computação serverless que permite executar código sem precisar gerenciar a infraestrutura (AWS gerencia automaticamente a capacidade, escalabilidade e disponibilidade). A partir de uma função (em Python, Java, etc.) e da definição de uma trigger, o Lambda executa automaticamente o código quando o gatilho é acionado.
+
 Por exemplo, o código é executado em resposta a um evento de Upload de arquivos no S3.
 
 # AWS S3 (Simple Storage Service)
