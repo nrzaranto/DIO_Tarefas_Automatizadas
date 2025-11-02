@@ -1,5 +1,5 @@
 # DIO_Tarefas_Automatizadas
-Repositório para armazenar conhecimentos obtidos no curso DIO Santander Code Girls 2025 - Módulo Gerenciamento e Governança na AWS e Módulo Desenvolvimento e Ferramenta.
+Repositório para armazenar conhecimentos obtidos no curso DIO Santander Code Girls 2025 - Módulo Automação e DevOps na AWS.
 
 # AWS Lambda
 Serviço de computação serverless que permite executar código sem precisar gerenciar a infraestrutura (AWS gerencia automaticamente a capacidade, escalabilidade e disponibilidade). A partir de uma função (em Python, Java, etc.) e da definição de uma trigger, o Lambda executa automaticamente o código quando o gatilho é acionado.
